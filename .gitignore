@@ -1,0 +1,27 @@
+# Diretórios da IDE do Arduino
+*.elf
+*.bin
+*.hex
+*.eep
+*.a
+*.d
+*.o
+
+# Arquivos de build da Arduino IDE
+.build/
+
+# Arquivos de configuração da IDE
+*.txt
+*.log
+
+# Biblioteca de dependências da Arduino IDE
+libraries/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.DS_Store
+
+# Compilados de MicroPython ou ESP32
+__pycache__/
+*.pyc
